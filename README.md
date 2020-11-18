@@ -13,14 +13,14 @@ For installing:
 
 1) Git clone  'url'
 2) cd projectname
-3)Rename .env.example file to .envinside your project root and fill the database information.
-4)Create a database locally named laravel-api and and chnage the DB_DATABASE field in .env file with laravel-api
-5)composer install
-6)php artisan key:generate
-7)php artisan migrate
-8)composer require laravel/passport
-9)php artisan passport:install
-10)php artisan serve
+3) Rename .env.example file to .envinside your project root and fill the database information.
+4) Create a database locally named laravel-api and and chnage the DB_DATABASE field in .env file with laravel-api
+5) composer install
+6) php artisan key:generate
+7) php artisan migrate
+8) composer require laravel/passport
+9) php artisan passport:install
+10) php artisan serve
 
 
 
